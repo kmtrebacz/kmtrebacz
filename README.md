@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @kmtrebacz
-- 👀 I’m interested in coding and photography
+- 👀 I’m interested in coding, photography and drumming
 - 🌱 I’m currently learning PyTorch and JS
