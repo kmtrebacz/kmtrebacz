@@ -3,8 +3,8 @@
 ### About Me
 - Living in Wroclaw, Poland 🇵🇱
 - Loves technology 💻
-- Loves music (playing and listening) 💽
-- Keen to analog and digital photography 📸
+- Keen on music (playing and listening) 💽
+- Fond of analog and digital photography 📸
 - High school student 🧑‍🎓
 
 ### Where to find me
