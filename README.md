@@ -1,3 +1,12 @@
-- 👋 Hi, I’m @kmtrebacz
-- 👀 I’m interested in coding, photography and drumming
-- 🌱 I’m currently learning Python (PyTorch and else), JS and Unity/C#
+# Hi, my name is Kacper! 👋
+
+### About Me
+- Living in Wroclaw, Poland 🇵🇱
+- Loves technology 💻
+- Loves music (playing and listening) 💽
+- Keen to analog and digital photography 📸
+- High school student 🧑‍🎓
+
+### Where to find me
+- [Email ✉️](mailto:kacperkapitrebacz@gmail.com)
+- [My Website 🌍](https://kacpertrebacz.pl)
