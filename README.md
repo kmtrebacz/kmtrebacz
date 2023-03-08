@@ -9,4 +9,4 @@
 
 ### Where to find me
 - [Email ✉️](mailto:kacperkapitrebacz@gmail.com)
-- [My Website 🌍](https://kacpertrebacz.pl)
+- [My Website 🌍](http://kacpertrebacz.pl)
