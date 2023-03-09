@@ -6,6 +6,7 @@
 - Keen on music (playing and listening) 💽
 - Fond of analog and digital photography 📸
 - High school student 🧑‍🎓
+- Currently learning Python and JS 🐍🟨
 
 ### Where to find me
 - [Email ✉️](mailto:kacperkapitrebacz@gmail.com)
