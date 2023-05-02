@@ -16,6 +16,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmtrebacz&show_icons=true&theme=dark)
 
 ### Where to find me
-<a href="mailto:kacperkapitrebacz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/kmtrebacz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
-<a href="https://kacpertrebacz.pl/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a> 
+[![My Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kacperkapitrebacz@gmail.com)
+[![My Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kmtrebacz/)
+[![My Instagram](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kacpertrebacz.pl/)
