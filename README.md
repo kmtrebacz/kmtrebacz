@@ -12,8 +12,8 @@
 [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,css,html,js,linux,mysql,neovim,py,rust)](https://skillicons.dev)
 
 ### Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmtrebacz&layout=compact&theme=dark) <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmtrebacz&show_icons=true&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=kmtrebacz&count_private=false&layout=compact&theme=dark) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmtrebacz&count_private=false&layout=compact&theme=dark)
 
 ### Where to find me
 [![My Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kacperkapitrebacz@gmail.com)
