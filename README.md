@@ -9,7 +9,7 @@
 - High school student 🧑‍🎓
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,css,html,js,linux,mysql,neovim,py,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,css,html,js,linux,mysql,neovim,py)](https://skillicons.dev)
 
 ### Statistics
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kmtrebacz&count_private=false&layout=compact&theme=dark) <br>
