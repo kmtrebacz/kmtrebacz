@@ -12,8 +12,9 @@
 [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,css,html,js,linux,mysql,neovim,py)](https://skillicons.dev)
 
 ### Statistics
-![Github stats](https://github-readme-stats.vercel.app/api?username=kmtrebacz&count_private=false&layout=compact&theme=dark) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmtrebacz&count_private=false&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=kmtrebacz&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kmtrebacz&theme=dark&hide_border=true)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kmtrebacz&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ### Where to find me
 [![My Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kacperkapitrebacz@gmail.com)
