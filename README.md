@@ -15,8 +15,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=kmtrebacz&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kmtrebacz&theme=dark&hide_border=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kmtrebacz&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-### Where to find me
-[![My Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kacperkapitrebacz@gmail.com)
-[![My Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kmtrebacz/)
-[![My Instagram](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kacpertrebacz.pl/)
