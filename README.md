@@ -9,9 +9,8 @@
 - High school student 🧑‍🎓
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,css,html,js,linux,mysql,neovim,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,css,html,js,mysql,py,linux,bash,neovim)](https://skillicons.dev)
 
 ### Statistics
 ![](https://github-readme-stats.vercel.app/api?username=kmtrebacz&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kmtrebacz&theme=dark&hide_border=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kmtrebacz&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kmtrebacz&theme=dark&hide_border=true)
