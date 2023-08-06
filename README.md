@@ -1,16 +1,14 @@
-# Hi, my name is Kacper! 👋
+# Hi!👋
+**I'm Kacper** - I'm high school student. I'm frontend and rust developer. I'm keen on in listening to music, especially to bands like Rush, Dream Theater or King Crimson. I'm also into street and portrait, digital and analog photography. In free time i'm expanding my knowledge about software development and then I use it to build some projects.
 
-### About Me
-- Living in Wroclaw, Poland 🇵🇱
-- Loves technology 💻
-- Big fan of retro 🕹
-- Keen on music (playing and listening) 💽
-- Fond of analog and digital photography 📸
-- High school student 🧑‍🎓
-
-### Languages and Tools
+### Tools that I use 🔧
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,css,html,js,mysql,py,linux,bash,neovim)](https://skillicons.dev)
 
-### Statistics
-![](https://github-readme-stats.vercel.app/api?username=kmtrebacz&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kmtrebacz&theme=dark&hide_border=true)
+<h3>
+  <details>
+    <summary>Github Stats 📈</summary>
+    <br>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kmtrebacz&theme=dark&count_private=true&hide_border=true&line_height=20"></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmtrebacz&layout=compact&theme=dark&count_private=true&hide_border=true"></a>
+  </details>
+</h3>
